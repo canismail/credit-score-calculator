@@ -1,0 +1,10 @@
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/dao/DataBaseConnector.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/dao/Persister.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/service/CreditProcess.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/model/ResultInfo.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/model/PersonInfo.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/service/Start.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/CreditApplication.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/constant/CreditScoreStatus.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/ServletInitializer.java
+/home/can/project/spring-react/krediBasvuru/src/main/java/com/kocsistem/krediBasvuru/constant/CreditLimitConst.java

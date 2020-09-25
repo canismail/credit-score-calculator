@@ -1,0 +1,10 @@
+com/kocsistem/krediBasvuru/dao/Persister.class
+com/kocsistem/krediBasvuru/constant/CreditScoreStatus.class
+com/kocsistem/krediBasvuru/service/CreditProcess.class
+com/kocsistem/krediBasvuru/CreditApplication.class
+com/kocsistem/krediBasvuru/model/PersonInfo.class
+com/kocsistem/krediBasvuru/dao/DataBaseConnector.class
+com/kocsistem/krediBasvuru/constant/CreditLimitConst.class
+com/kocsistem/krediBasvuru/model/ResultInfo.class
+com/kocsistem/krediBasvuru/service/Start.class
+com/kocsistem/krediBasvuru/ServletInitializer.class
