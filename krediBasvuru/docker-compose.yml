@@ -1,0 +1,13 @@
+ version: "3.7"
+ services:
+  frontend:
+    build: 
+      context: docker/react
+      dockerfile: Dockerfile
+    ports:
+      - "3030:3000"
+  backend:
+    build: docker/java/
+    container_name: backend
+    ports:
+      - "8080:8080"    
